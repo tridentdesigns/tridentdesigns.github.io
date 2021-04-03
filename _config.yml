@@ -1,5 +1,6 @@
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 title: Trident Designs
 tagline: Artisanal handcrafted epoxy and wood designs.
