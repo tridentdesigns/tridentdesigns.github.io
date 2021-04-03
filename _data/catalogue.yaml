@@ -1,0 +1,20 @@
+featured:
+  name: Geometric White
+  description: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at maximus felis. Proin ullamcorper, 
+    neque nec consequat dictum, ipsum diam euismod sapien, at tempor sapien lacus ut lorem.
+  price: R550
+  image: geometric-white.png
+items:
+  - name: Geometric Black
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at maximus felis. Proin ullamcorper, 
+      neque nec consequat dictum, ipsum diam euismod sapien, at tempor sapien lacus ut lorem.
+    price: R550
+    image: geometric-black.png
+  - name: Sky Blue
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at maximus felis. Proin ullamcorper, 
+      neque nec consequat dictum, ipsum diam euismod sapien, at tempor sapien lacus ut lorem.
+    price: R350
+    image: sky-blue.png
