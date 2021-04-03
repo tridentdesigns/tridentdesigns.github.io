@@ -1,41 +1,54 @@
 <section class="contact-section bg-black">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
+            <div class="col-md-3 mb-3 mb-md-0">
                 <div class="card py-4 h-100">
                     <div class="card-body text-center">
-                        <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-                        <h4 class="text-uppercase m-0">Address</h4>
+                        <i class="fab fa-whatsapp text-primary mb-2"></i>
+                        <h4 class="text-uppercase m-0">Whatsapp</h4>
                         <hr class="my-4" />
-                        <div class="small text-black-50">Centurion, South Africa</div>
+                        <div class="small text-black-50"><a href="https://wa.me/{{ site.whatsapp_number }}">Trident Designs</a></div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 mb-3 mb-md-0">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <div class="card py-4 h-100">
+                    <div class="card-body text-center">
+                        <i class="fab fa-facebook-f text-primary mb-2"></i>
+                        <h4 class="text-uppercase m-0">Facebook</h4>
+                        <hr class="my-4" />
+                        <div class="small text-black-50"><a href="https://www.facebook.com/{{ site.facebook_username }}">{{ site.facebook_username }}</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3 mb-md-0">
+                <div class="card py-4 h-100">
+                    <div class="card-body text-center">
+                        <i class="fab fa-instagram text-primary mb-2"></i>
+                        <h4 class="text-uppercase m-0">Instagram</h4>
+                        <hr class="my-4" />
+                        <div class="small text-black-50"><a href="https://www.instagram.com/{{ site.instagram_username }}">{{ site.instagram_username }}</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3 mb-md-0">
                 <div class="card py-4 h-100">
                     <div class="card-body text-center">
                         <i class="fas fa-envelope text-primary mb-2"></i>
                         <h4 class="text-uppercase m-0">Email</h4>
                         <hr class="my-4" />
-                        <div class="small text-black-50"><a href="#!">info@tridentdesigns.co.za</a></div>
+                        <div class="small text-black-50"><a href="mailto:{{ site.email }}?subject=Web Enquiry">{{ site.email }}</a></div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <i class="fas fa-mobile-alt text-primary mb-2"></i>
-                        <h4 class="text-uppercase m-0">Phone</h4>
-                        <hr class="my-4" />
-                        <div class="small text-black-50">+27 82 486 7918</div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
-        <div class="social d-flex justify-content-center">
-            <a class="mx-2" href="https://www.instagram.com/tridentdesignsza"><i class="fab fa-instagram"></i></a>
-            <a class="mx-2" href="https://www.facebook.com/TridentDesignsZA"><i class="fab fa-facebook-f"></i></a>
-            <a class="mx-2" href="https://wa.me/27824867918"><i class="fab fa-whatsapp"></i></a>
+        <!--
+            <div class="social d-flex justify-content-center">
+            <a class="mx-2" href="https://www.instagram.com/{{ site.instagram_username }}"><i class="fab fa-instagram"></i></a>
+            <a class="mx-2" href="https://www.facebook.com/{{ site.facebook_username }}"><i class="fab fa-facebook-f"></i></a>
+            <a class="mx-2" href="https://wa.me/{{ site.whatsapp_number }}"><i class="fab fa-whatsapp"></i></a>
         </div>
+        -->
     </div>
 </section>
