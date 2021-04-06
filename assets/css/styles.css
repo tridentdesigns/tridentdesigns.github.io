@@ -10275,13 +10275,16 @@ body {
 }
 @media (min-width: 992px) {
   .catalogue-section .catalogue-text {
-    padding: 5rem;
+    padding: 3rem;
   }
   .catalogue-section .catalogue-text hr {
     border-color: #64a19d;
     border-width: 0.25rem;
     width: 30%;
   }
+}
+.catalogue-section a:hover {
+  text-decoration: none;
 }
 
 .contact-us-section {

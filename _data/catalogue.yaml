@@ -1,20 +1,30 @@
 featured:
-  name: Geometric White
+  name: White Iridescent
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at maximus felis. Proin ullamcorper, 
-    neque nec consequat dictum, ipsum diam euismod sapien, at tempor sapien lacus ut lorem.
+    Hand made display tray made with an locally sourced wooden disc. 
+    It was filled with a White iridescent Epoxy to produce this unique display platter.
   price: R550
-  image: geometric-white.png
+  image: white-iridescent.png
+  url: https://wa.me/p/3778473295569128/27824867918
 items:
-  - name: Geometric Black
+  - name: Midnight Black
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at maximus felis. Proin ullamcorper, 
-      neque nec consequat dictum, ipsum diam euismod sapien, at tempor sapien lacus ut lorem.
+      Hand made display tray made with an locally sourced wooden disc. 
+      It was filled with a Black Epoxy and then carefully sanded to produce this unique display platter.
     price: R550
-    image: geometric-black.png
+    image: midnight-black.png
+    url: https://wa.me/p/3874481609272081/27824867918
+  - name: Geometric Midnight Black
+    description: >-
+      Hand made display tray made with an locally sourced wooden disc. 
+      It was filled with a Black Epoxy and then carefully sanded to produce this unique display platter.
+    price: R550
+    image: geometric-midnight-black.png
+    url: https://wa.me/p/5472651446110821/27824867918
   - name: Sky Blue
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at maximus felis. Proin ullamcorper, 
-      neque nec consequat dictum, ipsum diam euismod sapien, at tempor sapien lacus ut lorem.
+      Hand made coasters made with an locally sourced Cedar. 
+      It was filled with a Sky Blue Epoxy and then carefully sanded to produce this unique set of coasters.
     price: R350
     image: sky-blue.png
+    url: https://wa.me/p/4031525346904504/27824867918
